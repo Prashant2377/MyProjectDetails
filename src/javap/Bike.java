@@ -27,7 +27,7 @@ public final class Bike {
 
 	 public void m3()
 	 {
-		 System.out.println("stash checking task");
+		 System.out.println("stash checking task done");
 	 }
 
 	 
