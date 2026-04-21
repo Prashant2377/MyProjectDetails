@@ -18,5 +18,10 @@ public final class Bike {
 		 System.out.println("checking stash");
 	 }
 	 
+	 public void m4()
+	 {
+		 System.out.println("urgent story checking");
+	 }
+	 
 	 
 }
