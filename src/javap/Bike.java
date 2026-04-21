@@ -12,4 +12,11 @@ public final class Bike {
 	 {
 		 
 	 }
+	 
+	 public void m1()
+	 {
+		 System.out.println("checking stash");
+	 }
+	 
+	 
 }
