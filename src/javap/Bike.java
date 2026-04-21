@@ -15,13 +15,20 @@ public final class Bike {
 	 
 	 public void m1()
 	 {
-		 System.out.println("checking stash");
+		 System.out.println("checking ");
 	 }
 	 
+
 	 public void m4()
 	 {
 		 System.out.println("urgent story checking");
 	 }
 	 
+
+	 public void m3()
+	 {
+		 System.out.println("stash checking task");
+	 }
+
 	 
 }
